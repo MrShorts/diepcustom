@@ -17,7 +17,7 @@
 */
 
 /** The build supported by the server. */
-export const buildHash: string = "6f59094d60f98fafc14371671d3ff31ef4d75d9e";
+export const buildHash: string = "e5bfc351772669aaa940b5d996dadbfbc7d2fb5767b1b4f8afca81c6564b0150";
 /** The port the server is hosting its game server on. */
 export const serverPort: number = parseInt(process.env.PORT || "8080");
 /** Milliseconds per tick in the game. */
